@@ -271,7 +271,7 @@ x = 7 ** 6          print (x)  # witt. fron't  inden-tation
 - c = 3    #int 
 - d = a ** 2 # square of a 
 - print (type (d))    # return the type of d  
-- print (type (d/l0)) # return the type of d/l0 
+- print (type (d/10)) # return the type of d/10 
 - print (type (a/b))  # return the type of a/b 
 - print (type (a/c))  # return the type of a/c 
 - print (type (b*d))  # return the type of b*d
@@ -320,7 +320,7 @@ print(t.split()) # split by words
 print(t.find('i')) # return index of 'i'
 print(t.find('in')) # index of 'i' in 'in'
 print(t.find('Python')) # find sth not in
-print(t[0:4]) # returu from index 0 to 3
+print(t[0:4]) # return from index 0 to 3
 print(t.replace(' ','|')) # replace by '|'
 w = 'http://www.google.com'
 print(w.strip('http://')) #delete sth
