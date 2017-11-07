@@ -376,10 +376,15 @@ print(w.strip('http://')) #delete sth
 ```python
 
 l = [1, 2, 3.14, 'data'] #list
-print (type(l))l.append ([4,  3])
-print(l)l.extend (['delta' ,5 ,6] )   #add  a  list
-print(l)l.insert(3, 'beta')  #insert  before  index 3
-print(l)l.remove ('data')   #delete an elementprint(l)
+print (type(l))
+l.append ([4,  3])
+print(l)
+l.extend (['delta' ,5 ,6] )   #add  a  list
+print(l)
+l.insert(3, 'beta')  #insert  before  index 3
+print(l)
+l.remove ('data')   #delete an elementprint(l)
+print(l)
 ```
 ```python
 <class 'list'>    
