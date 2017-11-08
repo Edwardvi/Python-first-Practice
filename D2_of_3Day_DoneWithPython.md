@@ -229,7 +229,7 @@ import numpy as np
 In [1] : np.array([2, 3, 6, 7])   
 Out[l] : array([2, 3, 6, 7])   
 In [2] : np.array([2, 3, 6, 7.])   
-Out [2] :  array([ 2.,  3.,  6., 7.])  <- Hamogenaous   
+Out [2] :  array([ 2.,  3.,  6., 7.])  <-homogenaous   
 In  [3] :  np.array( [2,  3,  6,  7+ij])   
 Out [3] :  array([ 2.+O.j,  3.+O.j,  6.+O.j,  7.+1.j])
 ```
@@ -248,7 +248,7 @@ import numpy as np
 In [1] : np.array([2, 3, 6, 7])   
 Out[l] : array([2, 3, 6, 7])   
 In [2] : np.array([2, 3, 6, 7.])   
-Out [2] :  array([ 2.,  3.,  6., 7.])  <- Hamogenaous   
+Out [2] :  array([ 2.,  3.,  6., 7.])  <- Homogenaous   
 In  [3] :  np.array( [2,  3,  6,  7+ij])   
 Out [3] :  array([ 2.+O.j,  3.+O.j,  6.+O.j,  7.+1.j])
 ```
