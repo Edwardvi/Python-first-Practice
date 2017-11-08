@@ -92,7 +92,8 @@ import numpy
 * or for short by
 
 ```python
-2import numpy as np
+
+import numpy as np
 ```
 
 * Sometimes you do not have to import the whole module, like
